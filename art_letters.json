@@ -15,26 +15,21 @@
       "title": "00 - Dedication",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_00_lynd.mp3",
       "type": "audio/mpeg",
-      "duration": 62
-    },
-    {
-      "bitrate": "64",
-      "title": "00 - Dedication",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_00_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 62
+      "duration": 62,
+      "alternate": [
+        {
+          "bitrate": "64",
+          "title": "00 - Dedication",
+          "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_00_lynd_64kb.mp3",
+          "type": "audio/mpeg",
+          "duration": 62
+        }
+      ]
     },
     {
       "bitrate": "111",
       "title": "01 - Mr. Pepys",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_01_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 1050
-    },
-    {
-      "bitrate": "64",
-      "title": "01 - Mr. Pepys",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_01_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 1050
     },
@@ -46,23 +41,9 @@
       "duration": 789
     },
     {
-      "bitrate": "64",
-      "title": "02 - John Bunyan",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_02_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 789
-    },
-    {
       "bitrate": "111",
       "title": "03 - Thomas Campion",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_03_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 876
-    },
-    {
-      "bitrate": "64",
-      "title": "03 - Thomas Campion",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_03_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 876
     },
@@ -74,23 +55,9 @@
       "duration": 1037
     },
     {
-      "bitrate": "64",
-      "title": "04 - John Donne Part I &nbsp;from beginning through \"Who is my mistress:\"",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_04_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 1037
-    },
-    {
       "bitrate": "112",
       "title": "05 - John Donne Part II from \"One sort of readers\" through \"Anne Donne; Undone\"",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_05_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 884
-    },
-    {
-      "bitrate": "64",
-      "title": "05 - John Donne Part II from \"One sort of readers\" through \"Anne Donne; Undone\"",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_05_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 884
     },
@@ -102,23 +69,9 @@
       "duration": 1011
     },
     {
-      "bitrate": "64",
-      "title": "06 - John Donne Part III from \"His married life\" to end",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_06_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 1011
-    },
-    {
       "bitrate": "114",
       "title": "07 - Horace Walpole Part I from beginning to \"people in the room.\"",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_07_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 825
-    },
-    {
-      "bitrate": "64",
-      "title": "07 - Horace Walpole Part I from beginning to \"people in the room.\"",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_07_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 825
     },
@@ -130,23 +83,9 @@
       "duration": 833
     },
     {
-      "bitrate": "64",
-      "title": "08 - Horace Walpole Part II from \"It is generally assumed\" through \"fashionable trifler\"",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_08_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 833
-    },
-    {
       "bitrate": "115",
       "title": "09 - Horace Walpole Part III from \"Not that it is possible to represent him\" to end",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_09_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 740
-    },
-    {
-      "bitrate": "64",
-      "title": "09 - Horace Walpole Part III from \"Not that it is possible to represent him\" to end",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_09_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 740
     },
@@ -158,23 +97,9 @@
       "duration": 1018
     },
     {
-      "bitrate": "64",
-      "title": "10 - William Cowper Part I from beginning through \"the creature he describes.”",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_10_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 1018
-    },
-    {
       "bitrate": "115",
       "title": "11 - William Cowper Part II from \"Cowper was not to be\" through  \"both men..\"",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_11_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 1303
-    },
-    {
-      "bitrate": "64",
-      "title": "11 - William Cowper Part II from \"Cowper was not to be\" through  \"both men..\"",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_11_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 1303
     },
@@ -186,23 +111,9 @@
       "duration": 823
     },
     {
-      "bitrate": "64",
-      "title": "12 - William Cowper Part III from \"If we love Cowper\" to end",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_12_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 824
-    },
-    {
       "bitrate": "120",
       "title": "13 - A Note on Elizabethan Plays",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_13_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 693
-    },
-    {
-      "bitrate": "64",
-      "title": "13 - A Note on Elizabethan Plays",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_13_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 693
     },
@@ -214,23 +125,9 @@
       "duration": 987
     },
     {
-      "bitrate": "64",
-      "title": "14 - The Office of the Poets",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_14_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 987
-    },
-    {
       "bitrate": "121",
       "title": "15 - Edward Young as Critic",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_15_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 853
-    },
-    {
-      "bitrate": "64",
-      "title": "15 - Edward Young as Critic",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_15_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 853
     },
@@ -242,23 +139,9 @@
       "duration": 925
     },
     {
-      "bitrate": "64",
-      "title": "16 - Gray and Collins",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_16_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 925
-    },
-    {
       "bitrate": "114",
       "title": "17 - Aspects of Shelley: The Character Half-Comic",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_17_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 884
-    },
-    {
-      "bitrate": "64",
-      "title": "17 - Aspects of Shelley: The Character Half-Comic",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_17_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 884
     },
@@ -270,23 +153,9 @@
       "duration": 636
     },
     {
-      "bitrate": "64",
-      "title": "18 - Aspects of Shelley: The Experimentalist",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_18_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 636
-    },
-    {
       "bitrate": "113",
       "title": "19 - Aspects of Shelley: The Poet of Hope",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_19_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 644
-    },
-    {
-      "bitrate": "64",
-      "title": "19 - Aspects of Shelley: The Poet of Hope",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_19_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 644
     },
@@ -298,23 +167,9 @@
       "duration": 990
     },
     {
-      "bitrate": "64",
-      "title": "20 - The Wisdom of Coleridge: Coleridge as Critic",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_20_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 990
-    },
-    {
       "bitrate": "117",
       "title": "21 - The Wisdom of Coleridge: Coleridge as a Talker",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_21_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 953
-    },
-    {
-      "bitrate": "64",
-      "title": "21 - The Wisdom of Coleridge: Coleridge as a Talker",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_21_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 953
     },
@@ -326,23 +181,9 @@
       "duration": 622
     },
     {
-      "bitrate": "64",
-      "title": "22 - Tennyson: A Temporary Criticism",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_22_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 622
-    },
-    {
       "bitrate": "111",
       "title": "23 - The Politics of Swift and Shakespeare:  Swift",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_23_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 714
-    },
-    {
-      "bitrate": "64",
-      "title": "23 - The Politics of Swift and Shakespeare:  Swift",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_23_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 714
     },
@@ -354,23 +195,9 @@
       "duration": 832
     },
     {
-      "bitrate": "64",
-      "title": "24 - The Politics of Swift and Shakespeare: Shakespeare",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_24_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 832
-    },
-    {
       "bitrate": "113",
       "title": "25 - The Personality of Morris",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_25_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 858
-    },
-    {
-      "bitrate": "64",
-      "title": "25 - The Personality of Morris",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_25_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 858
     },
@@ -382,23 +209,9 @@
       "duration": 700
     },
     {
-      "bitrate": "64",
-      "title": "26 - George Meredith: The Egoist",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_26_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 700
-    },
-    {
       "bitrate": "114",
       "title": "27 - George Meredith: The Olympian Unbends",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_27_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 508
-    },
-    {
-      "bitrate": "64",
-      "title": "27 - George Meredith: The Olympian Unbends",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_27_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 508
     },
@@ -410,23 +223,9 @@
       "duration": 530
     },
     {
-      "bitrate": "64",
-      "title": "28 - George Meredith: The Anglo-Irish Aspect",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_28_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 530
-    },
-    {
       "bitrate": "110",
       "title": "29 - Oscar Wilde",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_29_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 579
-    },
-    {
-      "bitrate": "64",
-      "title": "29 - Oscar Wilde",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_29_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 579
     },
@@ -438,23 +237,9 @@
       "duration": 961
     },
     {
-      "bitrate": "64",
-      "title": "30 - Two English Critics: Mr. Saintsbury",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_30_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 961
-    },
-    {
       "bitrate": "114",
       "title": "31 - Two English Critics: Mr. Gosse",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_31_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 773
-    },
-    {
-      "bitrate": "64",
-      "title": "31 - Two English Critics: Mr. Gosse",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_31_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 773
     },
@@ -466,23 +251,9 @@
       "duration": 872
     },
     {
-      "bitrate": "64",
-      "title": "32 - An American Critic: Professor Irving Babbitt",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_32_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 873
-    },
-    {
       "bitrate": "120",
       "title": "33 - Georgians: Mr. de la Mare",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_33_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 951
-    },
-    {
-      "bitrate": "64",
-      "title": "33 - Georgians: Mr. de la Mare",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_33_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 951
     },
@@ -494,23 +265,9 @@
       "duration": 480
     },
     {
-      "bitrate": "64",
-      "title": "34 - Georgians: The Group",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_34_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 480
-    },
-    {
       "bitrate": "121",
       "title": "35 - Georgians: The Young Satirists",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_35_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 985
-    },
-    {
-      "bitrate": "64",
-      "title": "35 - Georgians: The Young Satirists",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_35_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 985
     },
@@ -522,23 +279,9 @@
       "duration": 868
     },
     {
-      "bitrate": "64",
-      "title": "36 - Labour of Authorship",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_36_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 868
-    },
-    {
       "bitrate": "117",
       "title": "37 - The Theory of Poetry",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_37_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 814
-    },
-    {
-      "bitrate": "64",
-      "title": "37 - The Theory of Poetry",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_37_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 814
     },
@@ -550,13 +293,6 @@
       "duration": 1525
     },
     {
-      "bitrate": "64",
-      "title": "38 - The Critic as Destroyer",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_38_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 1525
-    },
-    {
       "bitrate": "88",
       "title": "39 - Book Reviewing Part I from beginning through \"without ever being able to see it.\"",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_39_lynd.mp3",
@@ -564,23 +300,9 @@
       "duration": 933
     },
     {
-      "bitrate": "64",
-      "title": "39 - Book Reviewing Part I from beginning through \"without ever being able to see it.\"",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_39_lynd_64kb.mp3",
-      "type": "audio/mpeg",
-      "duration": 933
-    },
-    {
       "bitrate": "90.5",
       "title": "40 - Book Reviewing Part II from \"One of the chief virtues of the anecdote\" to the end",
       "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_40_lynd.mp3",
-      "type": "audio/mpeg",
-      "duration": 934
-    },
-    {
-      "bitrate": "64",
-      "title": "40 - Book Reviewing Part II from \"One of the chief virtues of the anecdote\" to the end",
-      "href": "http://archive.org/download/art_letters_1809_librivox/artofletters_40_lynd_64kb.mp3",
       "type": "audio/mpeg",
       "duration": 934
     }
